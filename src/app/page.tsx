@@ -14,7 +14,7 @@ const LandingPage: React.FC = () => {
           className="w-full max-w-lg rounded-lg shadow-lg mb-8"
         />
         <p className="text-lg text-gray-700 mb-8">Hoje você terá diversas surpresas</p>
-        <a href="https://wa.me/5571981154490?text=Verdade que eu vou ganhar uma caixa de chocolates da cacaushow? vou almoçar com você? vou passar tempo com vc, e ainda vou tomar açai no final da tarde? aaah te amo!" target="_blank">
+        <a href="https://wa.me/5571981154490?text=Verdade que eu vou ganhar 100 reais para eu gastar no que quiser ate final da tarde?? e que vou almoçar com você? e vou passar tempo com vc de qualidade , e ainda vou tomar açai no final da tarde? aaah te amo!" target="_blank">
           <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Clique para saber suas surpresas</button>
         </a>
       </main>
